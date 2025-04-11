@@ -1,0 +1,7 @@
+S = 2  # series group line to neutral
+Pt = 2  # total parallels units per phase
+Pa = 1  # parallels units per phase in "left" wye
+P = 1  # parallels units in affected string
+G = 1  # (0=grounded, 1=ungrounded)
+N = 9  # parallels elements inside a unit
+Su = 6  # series elements inside a unit
